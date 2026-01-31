@@ -1,0 +1,8 @@
+{
+  "name": "Elegance Portfolio",
+  "description": "A premium, minimalist personal portfolio featuring AI-driven insights, smooth animations, and a professional design for modern developers.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
